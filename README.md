@@ -5,9 +5,11 @@
 
 ### Level plan
 ![](/GDV_peggle%20concept.png)
+#### Het plan staat uitgelegd op mijn level plan
 
 ### Les 2.1 en 2.2
 ![](/Les2.1%20en%202.2.gif)
+#### Ik leerde in deze les hoe je 
 
 ### ComboSysteem met Punten
 
