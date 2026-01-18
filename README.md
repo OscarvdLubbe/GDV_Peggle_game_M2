@@ -9,11 +9,13 @@
 
 ### Les 2.1 en 2.2
 ![](/Les2.1%20en%202.2.gif)
-#### Ik leerde in deze les hoe je 
+#### Ik had in deze les een kannon toegvoegd die ballen uit kon schieten.
+#### dit word gedemonstreed op de gif hierboven
 
 ### ComboSysteem met Punten
 
 ![](/ComboSysteem.gif)
+#### In deze
 
 ### LevelDesign
 
