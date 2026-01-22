@@ -29,5 +29,10 @@
 
 ### ik vond het adden van particals best wel lastig omdat er veel in het partical systeem gebreurt. Ik kwam er uiteindelijk wel uit en ben gebleven met dit mooie resultaat.
 
+## StartScreen gemaakt
+![](/plaatjes/Schermafbeelding%202026-01-22%20203141.png)
+
+### Ik had hier nog een startscreen gemaakt dat je naar het spel brenkt.
+
 ### Doel van het spel
 ### Het doel van het spel is dat je geen limiet aan ballen hebt maar wel van pegs. je moet met de gegeven pegs een zo hoog mogelijke combo maken. waardoor je steeds Strategischer moet nadenken over hoe je een hogere score krijg door de limiet aantal pegs.
