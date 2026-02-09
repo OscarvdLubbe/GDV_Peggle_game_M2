@@ -12,22 +12,22 @@
 ### Ik had in deze les een kannon(De tomaton lancher 3000-TL) toegvoegd die ballen(Señor Tomaton) uit kon schieten. Ik had het meest moeite met het begrijpen van de code maar ik ben er uiteindelijk wel uit gekomen.
 #### Hierboven word gedemonstreed wat ik heb gemaakt.
 
-### ComboSysteem met Punten
+### Les 3.2 ComboSysteem met Punten
 
 ![](/plaatjes/ComboSysteem.gif)
 ### Ik had hier een combo systeem toegevoegd. Ik vond dit best wel lastig omdat er heel veel nieuwe info bij kwam en ik veel moeite had om alles goed op te nemen.
 
-## LevelDesign
+## Les 4.1 LevelDesign en UI
 
 ![gif](/LevelDesign2.gif)
 ![](/plaatjes/LevelDesign.png)
 
 ### Ik had mij niet heel erg gehounden aan mijn plan. omdat mijn plan meer voor een kleiner scherm is en ik wou het spel uiteindelijk beter op de laptop kan spelen.
 
-## particals
+## particals zijn deel van 5.2 Met 4.2 De waardes naar UI versturen
 ![gif](/plaatjes/GDV_SeñorTomaton_particals.gif)
 
-### ik vond het adden van particals best wel lastig omdat er veel in het partical systeem gebreurt. Ik kwam er uiteindelijk wel uit en ben gebleven met dit mooie resultaat.
+### ik vond het adden van particals best wel lastig omdat er veel in het partical systeem gebreurt. Ik kwam er uiteindelijk wel uit en ben gebleven met dit mooie resultaat. Van 5.2 lukte het mij niet om Sounds en de Shake to te voegen.
 
 ## StartScreen gemaakt
 ![](/plaatjes/Schermafbeelding%202026-01-22%20203141.png)
